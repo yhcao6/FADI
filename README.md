@@ -38,7 +38,7 @@ We follow exact the same split with [TFA](https://github.com/ucbdrive/few-shot-o
 please download the dataset and split files as follows:
 
 * Download [PASCAL VOC](http://host.robots.ox.ac.uk/pascal/VOC/)
-* Download [split files](https://mycuhk-my.sharepoint.com/:u:/r/personal/1155092180_link_cuhk_edu_hk/Documents/FADI/few_shot_voc_split.tar.gz?csf=1&web=1&e=esphy9)
+* Download [split files](https://mycuhk-my.sharepoint.com/:u:/g/personal/1155092180_link_cuhk_edu_hk/EV4lUT3Wrk1NrQMziWgu6awBInAPyY0KvROf5IEv_ly8TQ?e=MdbSXG)
 
 Create a directory `data` in the root directory, and the expected structure for `data` directory:
 ```
